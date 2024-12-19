@@ -11,7 +11,7 @@
   "dependencies": {
     "@onflow/fcl": "^1.13.3",
     "@onflow/typedefs": "^1.4.0",
-    "@poeternal/client": "^1.0.0",
+    "@poeternal/client": "^1.1.2",
     "@tailwindcss/typography": "^0.5.15",
     "daisyui": "^4.12.22",
     "react": "^18.3.1",
